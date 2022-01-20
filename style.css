@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+    color: #149414;
+    font-family: monospace;
+}
+
+img {
+    width: 500px;
+    height: auto;
+}
+
+a {
+    color: #9ccc9c;
+}
+
+a:visited {
+    color: #649568;
+}
